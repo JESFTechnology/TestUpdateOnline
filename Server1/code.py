@@ -1,1 +1,2 @@
-print("Hello World")
+def fale():
+    print("Hello world!")
